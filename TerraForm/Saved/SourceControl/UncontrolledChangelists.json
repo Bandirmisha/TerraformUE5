@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Git_projects/TerraformUE5/TerraForm/Content/Menu/Main_Menu.umap",
+				"C:/Git_projects/TerraformUE5/TerraForm/Content/Menu/MainMenuWidgets/WBP_MainMenu.uasset",
+				"C:/Git_projects/TerraformUE5/TerraForm/Content/Menu/WBP_MainMenu.uasset",
+				"C:/Git_projects/TerraformUE5/TerraForm/Content/Menu/UI_Elements/WBP_TitleName.uasset",
+				"C:/Git_projects/TerraformUE5/TerraForm/Content/Menu/UI_Elements/WBP_Buttons.uasset"
+			]
+		}
+	]
+}
