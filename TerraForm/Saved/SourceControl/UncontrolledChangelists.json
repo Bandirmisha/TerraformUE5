@@ -7,9 +7,6 @@
 			"files": [
 				"C:/Git_projects/TerraformUE5/TerraForm/Content/Menu/Main_Menu.umap",
 				"C:/Git_projects/TerraformUE5/TerraForm/Content/Menu/WBP_MainMenu.uasset",
-				"C:/Git_projects/TerraformUE5/TerraForm/Content/Menu/UI_Elements/WBP_TitleName.uasset",
-				"C:/Git_projects/TerraformUE5/TerraForm/Content/Menu/UI_Elements/WBP_Buttons.uasset",
-				"C:/Git_projects/TerraformUE5/TerraForm/Content/Menu/UI_Elements/backgroundImage3.uasset",
 				"C:/Git_projects/TerraformUE5/TerraForm/Content/Menu/Sounds/zvuk11.uasset",
 				"C:/Git_projects/TerraformUE5/TerraForm/Content/Menu/Sounds/knopka-komnatnogo-pereklyuchatelya1.uasset",
 				"C:/Git_projects/TerraformUE5/TerraForm/Content/Menu/UI_Elements/UI_Blueprint/WBP_Buttons.uasset",
@@ -20,6 +17,11 @@
 				"C:/Git_projects/TerraformUE5/TerraForm/Content/Menu/Fonts/astro_Font.uasset",
 				"C:/Git_projects/TerraformUE5/TerraForm/Content/Menu/Fonts/tektur-4_Font.uasset",
 				"C:/Git_projects/TerraformUE5/TerraForm/Content/Menu/Fonts/tektur-4.uasset",
+				"C:/Git_projects/TerraformUE5/TerraForm/Content/Menu/Music/Ibuki_Fkuda_-_Forest_of_Prayer.uasset",
+				"C:/Git_projects/TerraformUE5/TerraForm/Content/Menu/Music/SC_MenuMusic.uasset",
+				"C:/Git_projects/TerraformUE5/TerraForm/Content/Menu/UI_Elements/WBP_TitleName.uasset",
+				"C:/Git_projects/TerraformUE5/TerraForm/Content/Menu/UI_Elements/WBP_Buttons.uasset",
+				"C:/Git_projects/TerraformUE5/TerraForm/Content/Menu/UI_Elements/backgroundImage3.uasset",
 				"C:/Git_projects/TerraformUE5/TerraForm/Content/Menu/UI_Elements/menu_background1.uasset",
 				"C:/Git_projects/TerraformUE5/TerraForm/Content/Menu/UI_Elements/menu_background2.uasset",
 				"C:/Git_projects/TerraformUE5/TerraForm/Content/Menu/MainMenuWidgets/WBP_MainMenu.uasset"
